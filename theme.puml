@@ -36,7 +36,7 @@ skinparam sequence {
     ParticipantFontColor white
     ParticipantFontSize 15
     ParticipantFontName NintendoFont
-    FontStyle Bold
+    ParticipantFontStyle Bold
 }
 
 skinparam title {
