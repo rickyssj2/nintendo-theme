@@ -1,0 +1,65 @@
+!define NintendoBlue #0071c5
+!define NintendoRed #e60012
+!define NintendoYellow #ffdc00
+!define NintendoGreen #4cb050
+!define NintendoGrey #6c6e70
+!define NintendoLightGrey #e5e5e5
+!define NintendoFont Helvetica
+
+skinparam sequence {
+    ActorBorderColor NintendoRed
+    ActorBackgroundColor NintendoRed
+    ActorFontName NintendoFont
+    ActorFontSize 15
+    ArrowColor NintendoGrey
+    ArrowThickness 1
+    ArrowFontSize 15
+    ArrowFontName NintendoFont
+    DividerBorderColor NintendoGrey
+    DividerBackgroundColor White
+    DividerFontName NintendoFont
+    DividerFontSize 15
+    BoxBorderColor NintendoGrey
+    BoxBackgroundColor White
+    BoxFontSize 15
+    BoxFontName NintendoFont
+    BoxFontColor NintendoGrey
+    BoxFontStyle Plain
+    ActivationBorderColor NintendoGrey
+    ActivationBackgroundColor White
+    ActivationFontColor NintendoGrey
+    LifeLineBorderColor NintendoGrey
+    LifeLineBackgroundColor White
+    LifeLineStrokeThickness 1
+    ParticipantBorderColor NintendoRed
+    ParticipantBackgroundColor NintendoRed
+    ParticipantFontColor white
+    ParticipantFontSize 15
+    ParticipantFontName NintendoFont
+    FontStyle Bold
+}
+
+skinparam title {
+    BackgroundColor white
+    FontColor black
+    FontName NintendoFont
+    FontSize 18
+    FontStyle Bold
+}
+
+skinparam note {
+    BackgroundColor NintendoYellow
+    BorderColor NintendoGrey
+    FontColor black
+    FontName NintendoFont
+    FontSize 15
+}
+
+skinparam sequenceGroup {
+    BorderColor NintendoLightGrey
+    BackgroundColor NintendoLightGrey
+    FontColor NintendoGrey
+    FontName NintendoFont
+    FontSize 16
+}
+
