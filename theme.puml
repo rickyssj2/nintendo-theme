@@ -62,8 +62,7 @@ skinparam sequenceGroup {
     FontName NintendoFont
     FontSize 16
 }
-skinparam {
-    roundCorner 20
+skinparam {    
     activity {
         BackgroundColor NintendoLightGrey
         BorderColor NintendoGrey
